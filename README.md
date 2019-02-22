@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/inetsec/learn-GitHub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-################it's me yes，just for test 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inetsec/learn-GitHub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+学习GitHub第一课
+github是一个协同工作的平台
+1、首先是要到github.com上注册一个属于自己的账号和密码，具体过程不在介绍了
+2、有了账号之后，先创建一个仓库Repositories（里面可以放文本，图片，程序，文件夹，文件等等）
+选中创建readme.md，具体操作过程，可以用向导https://guides.github.com/activities/hello-world/
+是英文的，如果你用的是谷歌浏览器的话，直接右键选翻译成简体中文就可以了，一目了然
+3、仓库建立之后，默认有个主分支master，别人可以根据主分支创建另外的分支，并进行修改，修改之后
+提交请求（pull requests）
+4、主分支master看到请求后，可以对比，查看变化，并进行讨论，最终确定修改
